@@ -1,2 +1,5 @@
-# voice_clone_ai_flutter_2
-Flutter project created by KLENCOD IDE
+# Voice Clone AI
+1. ارفع هذا المجلد إلى مستودع GitHub جديد.
+2. (اختياري) Settings > Variables > أضف API_BASE بعنوان خادمك.
+3. تبويب Actions > Build APK > Run workflow.
+4. نزّل voice-clone-ai-apk من Artifacts.
